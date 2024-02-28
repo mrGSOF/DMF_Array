@@ -1,0 +1,6 @@
+[submodule "arduBridge.git"]
+	path = arduBridge.git
+	url = https://github.com/mrGSOF/arduBridge.git
+[submodule "HighVoltageOscillator.git"]
+	path = HighVoltageOscillator.git
+	url = https://github.com/mrGSOF/HighVoltageOscillator.git
